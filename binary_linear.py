@@ -24,7 +24,7 @@ def linearsearch (numbers, key ):
 z= True
 while(z):
    print ( "\t<  MANUAL  >  \t ")
-   manual_input = int (input ("\tENTER 1 FOR BINARY SEARCH \n"
+   manual_input = int (input ("\tENTER 2 FOR BINARY SEARCH \n"
                               "\tENTER 2 FOR LINERAR SEARCH\n"
                               "\tENTER 3 FOR EXIT\n"))
    if(manual_input==3):
